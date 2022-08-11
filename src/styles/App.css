@@ -1,0 +1,18 @@
+.primary-btn {
+  background-color: #39b34b !important;
+  border-radius: 6px;
+  color: #fff;
+  @apply px-4 py-1 transition-all text-sm;
+}
+
+.primary-btn:hover {
+  background: #52c23c !important;
+}
+
+body {
+  overflow-x: hidden !important;
+}
+
+* {
+  overflow-x: hidden !important;
+}
